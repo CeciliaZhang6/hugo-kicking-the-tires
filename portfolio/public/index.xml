@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to My Portfolio on Cecilia&#39;s Portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome to My Portfolio on Cecilia&#39;s Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Feb 2025 03:34:33 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 11 Feb 2025 03:34:33 -0500</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;This is the Contact page.&lt;/p&gt;&#xA;&lt;p&gt;Feel free to reach out via:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:contact@me.com&#34;&gt;contact@me.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Phone&lt;/strong&gt;: (123) 456-7890&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Résumé</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Tue, 11 Feb 2025 03:28:20 -0500</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h2 id=&#34;cecilia-zhangs-résumé&#34;&gt;Cecilia Zhang&amp;rsquo;s Résumé&lt;/h2&gt;&#xA;&lt;h3 id=&#34;education&#34;&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bryn Mawr College&lt;/strong&gt;&lt;br&gt;&#xA;B.A. in Computer Science, Expected 2025&lt;/p&gt;&#xA;&lt;h3 id=&#34;skills&#34;&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Web Development (HTML, CSS, JavaScript, PHP)&lt;/li&gt;&#xA;&lt;li&gt;Backend Development (Node.js, Python, PHP)&lt;/li&gt;&#xA;&lt;li&gt;Database Management (MySQL, Firebase)&lt;/li&gt;&#xA;&lt;li&gt;Software Engineering&lt;/li&gt;&#xA;&lt;li&gt;Consulting &amp;amp; Problem Solving&lt;/li&gt;&#xA;&lt;li&gt;UX/UI Design&lt;/li&gt;&#xA;&lt;li&gt;Git &amp;amp; Version Control&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;experience&#34;&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Founder &amp;amp; Lead Developer - XueDa&lt;/strong&gt; (2023 - Present)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Designed and implemented an &lt;strong&gt;online study platform&lt;/strong&gt; to enhance virtual collaboration.&lt;/li&gt;&#xA;&lt;li&gt;Developed the &lt;strong&gt;backend using PHP &amp;amp; MySQL&lt;/strong&gt; for secure authentication and role-based access.&lt;/li&gt;&#xA;&lt;li&gt;Managed &lt;strong&gt;API integrations and data pipelines&lt;/strong&gt; for seamless performance.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;projects&#34;&gt;&lt;strong&gt;Projects&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;XueDa 1.1&lt;/strong&gt; - Scalable virtual event hosting platform (PHP, MVC, REST APIs).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Farming Game&lt;/strong&gt; - Unity-based farming simulator with resource management.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;contact&#34;&gt;&lt;strong&gt;Contact&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:cecilia@myemail.com&#34;&gt;cecilia@myemail.com&lt;/a&gt;&lt;br&gt;&#xA;Website: &lt;a href=&#34;https://ceciliaportfolio.com&#34;&gt;ceciliaportfolio.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 01 Jan 2020 12:40:44 -0500</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;This is my About page.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
