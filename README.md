@@ -6,6 +6,7 @@ It serves as a practice mini project to get familiar with **Hugo**.
 ## Project Structure
 
 hugo-kicking-the-tires/
+
 │── portfolio/           
 │   ├── content/         # content pages (about, resume, contact)
 │   ├── layouts/         
